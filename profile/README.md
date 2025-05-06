@@ -42,7 +42,6 @@ We welcome contributions from everyone—whether you’re a seasoned maintainer 
 Some of our flagship projects:
 
 - [`voltig`](https://github.com/voltigdev/voltig): A cross-platform package manager and dev environment tool.
-- (Add more projects here as your organization grows!)
 
 ---
 
